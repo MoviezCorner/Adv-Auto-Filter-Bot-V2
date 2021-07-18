@@ -142,7 +142,7 @@ async def cb_navg(bot, update: CallbackQuery):
     
     reply_markup = InlineKeyboardMarkup(temp_results)
     
-    text=f"<i>Found</i> <code>{leng}</code> <i>Results For Your Query:</i> <code>{query}</code>\n\n🔆𝗖𝗶𝗻𝗲𝗺𝗮 𝘄𝗼𝗿𝗹𝗱🔆\n<a href=https://t.me/joinchat/JOKzFUR3I8llZDdl >🗣️𝗝𝗢𝗜𝗡 𝗖𝗛𝗔𝗡𝗡𝗘𝗟</a>"
+    text=f"<i>Found</i> <code>{leng}</code> <i>Results For Your Query:</i> <code>{query}</code>\n\n🔰〽️𝗼𝘃𝗶𝗲𝘇 𝗖𝗼𝗿𝗻𝗲𝗿🔰\n<a href=https://t.me/joinchat/URhRCdGFTOkySRRg >🗣️𝗝𝗢𝗜𝗡 𝗖𝗛𝗔𝗡𝗡𝗘𝗟</a>"
         
     try:
         await update.message.edit(
@@ -1640,10 +1640,10 @@ async def callback_data(bot, update: CallbackQuery):
 
     if query_data == "start":
         buttons = [[
-            InlineKeyboardButton('🌈Ɠɾσυρ🌈', url='https://t.me/Cinema_world_officiel'),
-            InlineKeyboardButton('🌈Ƈԋαɳɳҽʅ🌈', url ='https://t.me/joinchat/JOKzFUR3I8llZDdl')
+            InlineKeyboardButton('🌈Ɠɾσυρ🌈', url='https://t.me/joinchat/9RYH5rzJRdkzN2Fl'),
+            InlineKeyboardButton('🌈Ƈԋαɳɳҽʅ🌈', url ='https://t.me/joinchat/URhRCdGFTOkySRRg')
         ],[
-            InlineKeyboardButton('✨ Ƈʜɳɳҽʅ ʅιsƚ✨', url='http://t.me/cw_access_bot')
+            InlineKeyboardButton('✨ Ƈʜɳɳҽʅ ʅιsƚ✨', url='http://t.me/MC_accessBot')
         ],[
             InlineKeyboardButton('Help ⚙', callback_data="help")
         ]]
