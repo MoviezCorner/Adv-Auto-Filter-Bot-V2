@@ -61,7 +61,7 @@ async def start(bot, update):
                         [
                             InlineKeyboardButton
                                 (
-                                    '💋𝗡𝗲𝘄 𝗠𝗼𝘃𝗶𝗲𝘀💋', url="https://t.me/cw_main"
+                                    '💋𝗡𝗲𝘄 𝗠𝗼𝘃𝗶𝗲𝘀💋', url="https://t.me/joinchat/URhRCdGFTOkySRRg"
                                 )
                         ]
                     ]
@@ -96,7 +96,7 @@ async def start(bot, update):
                         [
                             InlineKeyboardButton
                                 (
-                                    '💋𝗡𝗲𝘄 𝗠𝗼𝘃𝗶𝗲𝘀💋', url="https://t.me/cw_main"
+                                    '💋𝗡𝗲𝘄 𝗠𝗼𝘃𝗶𝗲𝘀💋', url="https://t.me/joinchat/URhRCdGFTOkySRRg"
                                 )
                         ]
                     ]
@@ -131,7 +131,7 @@ async def start(bot, update):
                         [
                             InlineKeyboardButton
                                 (
-                                    '💋𝗡𝗲𝘄 𝗠𝗼𝘃𝗶𝗲𝘀💋', url="https://t.me/cw_main"
+                                    '💋𝗡𝗲𝘄 𝗠𝗼𝘃𝗶𝗲𝘀💋', url="https://t.me/joinchat/URhRCdGFTOkySRRg"
                                 )
                         ]
                     ]
@@ -144,10 +144,10 @@ async def start(bot, update):
         return
 
     buttons = [[
-        InlineKeyboardButton('🌈Ɠɾσυρ🌈', url='https://t.me/Cinema_world_officiel'),
-        InlineKeyboardButton('🌈Ƈԋαɳɳҽʅ🌈', url ='https://t.me/joinchat/JOKzFUR3I8llZDdl')
+        InlineKeyboardButton('🌈Ɠɾσυρ🌈', url='https://t.me/joinchat/9RYH5rzJRdkzN2Fl'),
+        InlineKeyboardButton('🌈Ƈԋαɳɳҽʅ🌈', url ='https://t.me/joinchat/URhRCdGFTOkySRRg')
     ],[
-        InlineKeyboardButton('✨ Ƈʜɳɳҽʅ ʅιsƚ✨', url='http://t.me/cw_access_bot')
+        InlineKeyboardButton('✨ Ƈʜɳɳҽʅ ʅιsƚ✨', url='http://t.me/MC_accessBot')
     ],[
 
     ]]
