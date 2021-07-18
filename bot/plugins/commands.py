@@ -53,7 +53,7 @@ async def start(bot, update):
             await bot.send_document(
                 chat_id=update.chat.id,
                 document = file_id,
-                caption = "<b>➠ɴᴇᴡ ᴍᴏᴠɪᴇs : @cw_main\n\n➠ᴏᴛᴛ ᴜᴘᴅᴀᴛᴇ  : @cw_links\n\n➠Gʀᴏᴜᴘ : @Cinema_world_officiel</b>",
+                caption = "<b>🎗ᴊᴏɪɴ ᴏᴜʀ ᴜᴘᴅᴀᴛᴇ ᴄʜᴀɴɴᴇʟ🎗\n\n➠ɴᴇᴡ ᴍᴏᴠɪᴇs : @moviezscorner\n\n➠Wᴇʙ Sᴇʀɪᴇs  : @mc_tv_seriess\n\n➠Gʀᴏᴜᴘ : @@moviezscornerr\n\nᴛʜᴀɴᴋs ғᴏʀ ᴜsɪɴɢ😘</b>",
                 parse_mode="html",
                 reply_to_message_id=update.message_id,
                 reply_markup=InlineKeyboardMarkup(
@@ -61,7 +61,7 @@ async def start(bot, update):
                         [
                             InlineKeyboardButton
                                 (
-                                    '💋𝗡𝗲𝘄 𝗠𝗼𝘃𝗶𝗲𝘀💋', url="https://t.me/joinchat/URhRCdGFTOkySRRg"
+                                    '🔘Join Channel🔘', url="http://t.me/Cinema_Parlour"
                                 )
                         ]
                     ]
@@ -96,7 +96,7 @@ async def start(bot, update):
                         [
                             InlineKeyboardButton
                                 (
-                                    '💋𝗡𝗲𝘄 𝗠𝗼𝘃𝗶𝗲𝘀💋', url="https://t.me/joinchat/URhRCdGFTOkySRRg"
+                                    '🔘Join Channel🔘', url="http://t.me/Cinema_Parlour"
                                 )
                         ]
                     ]
@@ -131,7 +131,7 @@ async def start(bot, update):
                         [
                             InlineKeyboardButton
                                 (
-                                    '💋𝗡𝗲𝘄 𝗠𝗼𝘃𝗶𝗲𝘀💋', url="https://t.me/joinchat/URhRCdGFTOkySRRg"
+                                    '🔘Join Channel🔘', url="http://t.me/Cinema_Parlour"
                                 )
                         ]
                     ]
